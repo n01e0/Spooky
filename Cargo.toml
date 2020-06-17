@@ -1,0 +1,12 @@
+[package]
+name = "spooky"
+version = "0.1.0"
+authors = ["n01e0 <noleo@vanillabeans.mobi>"]
+edition = "2018"
+description = "GMOコインのAPIをインタラクティブに叩くやつ"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+gmo_coin = "*"
+shrust = "*"
