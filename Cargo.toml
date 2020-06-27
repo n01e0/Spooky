@@ -1,10 +1,9 @@
 [package]
 name = "spooky"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["n01e0 <noleo@vanillabeans.mobi>"]
 edition = "2018"
 description = "GMOコインのAPIをインタラクティブに叩くやつ"
-licensefile = "./LICENSE"
 readme = "README.md"
 
 [dependencies]
